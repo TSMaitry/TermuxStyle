@@ -48,7 +48,7 @@ echo -e $R"   [*] Program Initialized."
 echo
 echo -e $Y"   [*] Setup Completed."
 echo
-echo -e $Y"   [*] Now You Can Run This Program By Just typing 'TermuxStyle'."
+echo -e $Y"   [*] Now You Can Run This Program By Just typing $G'termuxstyle'."
 echo
 echo -e $G"   [*] Developed By$R TRILOK SINGH MAITRY."
 echo
