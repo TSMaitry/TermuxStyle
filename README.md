@@ -23,4 +23,4 @@ $ ./setup
 Done, TermuxStyle successfully installed in your termux.
 Open new session and just type "termuxstyle".
 Here Screenshot Preview
-![preview1](https://github.com/TSMaitry/TermuxStyle/scrshtprview/scrshtprview01.png) <br />
+![preview1](https://github.com/TSMaitry/TermuxStyle/scrshtprview/scrsprview01.png) <br />
