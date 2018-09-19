@@ -39,7 +39,7 @@ echo -e $Y"   [🗜] Extracting Files..."
 echo
 tar -xhf data.tar.gz
 chmod +x termux-style/theme
-ln -s $PREFIX/share/termux-style/theme $PREFIX/bin/termuxstyle
+ln -s $PREFIX/share/termuxstyle/theme $PREFIX/bin/termuxstyle
 rm $PREFIX/share/data.tar.gz
 termux-reload-settings
 echo -e $G"   [✅] Successfully Installed!"
@@ -48,6 +48,6 @@ echo -e $R"   [✅] Successfully  Initialized!"
 echo
 echo -e $Y"   [✅] Setting Up Completed!"
 echo
-echo -e $C"    [⌨] Just Type$W 'TermuxStyle'$C To Run Program."
+echo -e $C"    [⌨] Just Type$W 'termuxstyle'$C To Run Program."
 echo -e $G"   [👨‍💻] Developed By$R TRILOK SINGH MAITRY."
 echo
